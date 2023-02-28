@@ -1,7 +1,7 @@
 # <h1 align="center">Campo-minado</h1>
 
 <p align="center">
-     <img alt="imagem ilustrativa do tabuleiro do campo minado no console do java" src="https://user-images.githubusercontent.com/112354693/220440625-e7601001-4fc4-4b05-8547-82c82787abbb.png" width="700">
+     <img alt="imagem ilustrativa do tabuleiro do campo minado no console do java" src="https://user-images.githubusercontent.com/112354693/221979164-dd2dc1eb-667a-45a2-8a6a-8ffd49b44774.png" width="700">
 </p>
 
 ## Como funciona:
@@ -26,12 +26,13 @@ de abrir uma vizinhança ou azar de cair em uma bomba</p>
 ## Bibliotecas e conceitos aplicados no projeto:
 
 <p>:arrow_right: Orientação a Objeto, Exceções, Collections, Stream API <br> 
-com filtes, maps, forEach e lambdas, JUnit, Enums, java 8 e mais</p>
+com filtes, maps, forEach e lambdas, JUnit, Enums, java 8, Padrão Observer <br>
+javax.swing e mais</p>
 
 ## Repositório com:
 
 <p>:arrow_right: Projeto do campo minado via console</p>
-<p>:arrow_right: Projeto do campo minado com interface gráfica (em breve) </p>
+<p>:arrow_right: Projeto do campo minado com interface gráfica</p>
 
 ## Tecnologias usadas:
 
